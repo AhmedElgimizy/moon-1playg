@@ -1,5 +1,5 @@
 token=NTE0NDgyNTk4MDIyNjEwOTY2.DtXOkg.cMGRlnhhrSE62shXgU4iuBL7dH0
-owner=ا439058009482592259
+owner=439058009482592259
 prefix= 1
 game= Moon Music | 1play.
 stayinchannel=true
