@@ -1,6 +1,6 @@
-token=NTE0NDgyNTk4MDIyNjEwOTY2.DtXOkg.cMGRlnhhrSE62shXgU4iuBL7dH0
-owner=439058009482592259
+token=NDY3MzkzODczNDU1MzQ5NzYy.DtjRRg.5BHzlQyVfcXcf36Css_ETHUa0-g
+owner=347379495528824832
 prefix= 1
-game= Moon Music | 1play.
+game= BlackLight Music | 1play.
 stayinchannel=true
 songinstatus=false 
